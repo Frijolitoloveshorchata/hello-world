@@ -1,5 +1,25 @@
-# hello-world
-Este repositorio es para practicar el flujo de GitHub :D
+<h1 align="center">Hola, soy Frijolito 👋</h1>
 
-Me llamo Emiliano, pero prefiero que me digan Frijolito. Soy un apasionado de la tecnología, actualmente estoy en el bachillerato y me encanta desarmar laptops viejas para ver cómo funcionan por dentro. En mi tiempo libre juego videojuegos y recuerdo con cariño mi viaje favorito: cuando fui a Italia a los 14 años.
-Normalmente soy bastante abierto con la gente y muy paciente, aunque mi personalidad puede variar según el momento. En resumen, soy un frijolito curioso, techie y siempre listo para una nueva aventura. :D
+<p align="center">
+  Estudiante de bachillerato apasionado por la tecnología y el hardware.
+</p>
+
+### Sobre mí
+- Me llamo **Jose Emiliano**, pero todos me dicen **Frijolito**
+- Vivo en Sonora, México
+- Me gusta desarmar laptops, entender cómo funcionan las cosas por dentro y hacer proyectos DIY
+- Actualmente estoy convirtiendo una pantalla vieja de laptop en un monitor portátil
+
+### Proyectos destacados
+- **[DIY Portable Monitor](https://github.com/Frijolitoloveshorchata/DIY-Portable-Monitor-B156XTK01)** — Reutilizando hardware de laptop
+- **[Frijolito-OS-Plymouth](https://github.com/Frijolitoloveshorchata/Frijolito-OS-Plymouth)** — Tema de arranque personalizado para Linux Mint
+
+### Intereses
+- Hardware y reparación de dispositivos
+- Armar PCs (gamer o de oficina)
+- Linux y personalización
+- Proyectos prácticos y aprendizaje hands-on
+
+---
+
+*"Aprendiendo una cosa a la vez, desarmando y armando"* 🛠️
